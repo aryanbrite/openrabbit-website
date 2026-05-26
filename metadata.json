@@ -1,0 +1,12 @@
+{
+  "name": "OpenRabbit",
+  "description": "A free, open-source, self-hosted GitHub PR reviewer that replaces CodeRabbit.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
